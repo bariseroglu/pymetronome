@@ -21,3 +21,7 @@ With a small error rate, it is possible to make a thread that synchronizes itsel
     time.sleep(0.1)
     current_time = datetime.datetime.now().microsecond / 1000
 ```
+
+## GUI
+
+![plot](./gui.png)
